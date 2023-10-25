@@ -12,7 +12,7 @@ External Downloads:\
 Contribute:\
 [![Donate](https://img.shields.io/badge/Donate-PayPal-2f81f7.svg?&style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=36S38CB4UD57J)
 [![Kofi](https://img.shields.io/badge/Kofi-2f81f7?style=flat-square)](https://ko-fi.com/M4M7IZK0Y)
-[![BMAC](https://img.shields.io/badge/Buymeacoffee-2f81f7?style=flat-square)]([https://ko-fi.com/M4M7IZK0Y](https://www.buymeacoffee.com/nicklasvraa))\
+[![BMAC](https://img.shields.io/badge/Buymeacoffee-2f81f7?style=flat-square)](https://www.buymeacoffee.com/nicklasvraa)\
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-112ggRAZB6ipvV25v5ewnhdXSfyrYujfaF-2f81f7?style=flat-square)
 
 #
