@@ -6,9 +6,8 @@ Master's student at [Aarhus University](https://international.au.dk/)
 ![PyPI](https://img.shields.io/pypi/dm/color-manager-nv?style=flat-square&label=PyPI%DLs&color=2f81f7)
 
 **Current Obsessions**:
-- Everything Linux. Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="20"/> 
-- Hardware-only ANNs for energy-efficient ML\
-- Python programs 
+- Everything Linux. Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/> 
+- Hardware-only ANNs for energy-efficient ML
 
 <details>
 <summary>Sponsor</summary>
