@@ -18,4 +18,3 @@ External Downloads:\
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-112ggRAZB6ipvV25v5ewnhdXSfyrYujfaF-2f81f7?style=flat-square)
 
 </details>
-<img width="600" src="https://cdn.rawgit.com/NicklasVraa/Animated_SVGs/main/svgs/night.svg">
