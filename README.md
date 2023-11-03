@@ -3,7 +3,7 @@
 
 Github Stats:\
 ![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
-![Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&&label=Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
+![Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
 
 External Downloads:\
 ![SourceForge](https://img.shields.io/sourceforge/dt/novaos?style=flat-square&label=Sourceforge&color=2f81f7)
