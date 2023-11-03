@@ -1,13 +1,14 @@
-**Occupation**: Master's Student at [Aarhus University](https://international.au.dk/)\
-**Current Obsession**: Purely hardware-based neural nets for energy-efficient ML
+Master's student at [Aarhus University](https://international.au.dk/)
 
-Github Stats:\
-![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
-![Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
+![GH Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=GH%20Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
+![GH Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=GH%20Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
+![SourceForge DLs](https://img.shields.io/sourceforge/dt/novaos?style=flat-square&label=Sourceforge%20DLs&color=2f81f7)
+![PyPI](https://img.shields.io/pypi/dm/color-manager-nv?style=flat-square&label=PyPI%DLs&color=2f81f7)
 
-External Downloads:\
-![SourceForge](https://img.shields.io/sourceforge/dt/novaos?style=flat-square&label=Sourceforge&color=2f81f7)
-![PyPI](https://img.shields.io/pypi/dm/color-manager-nv?style=flat-square&label=PyPI&color=2f81f7)
+**Current Obsessions**:
+- Everything Linux. Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/novaos.svg" width="20"/> 
+- Hardware-only ANNs for energy-efficient ML\
+- Python programs 
 
 <details>
 <summary>Sponsor</summary>
