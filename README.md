@@ -1,5 +1,5 @@
 **Occupation**: Master's Student at [Aarhus University](https://international.au.dk/)\
-**Current Obsession**: ASIC design for energy-efficient AI
+**Current Obsession**: Purely hardware-based neural nets for energy-efficient ML
 
 Github Stats:\
 ![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
