@@ -5,7 +5,7 @@ Master's student at [Aarhus University](https://international.au.dk/)
 ![SourceForge DLs](https://img.shields.io/sourceforge/dt/novaos?style=flat-square&label=Sourceforge%20DLs&color=2f81f7)
 ![PyPI](https://img.shields.io/pypi/dm/color-manager-nv?style=flat-square&label=PyPI%20DLs&color=2f81f7)
 
-**Current Obsessions**:
+**Current interests**:
 - Everything Linux. Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/> 
 - Hardware-only ANNs for energy-efficient ML
 
