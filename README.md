@@ -1,5 +1,5 @@
 Master's student at [Aarhus University](https://international.au.dk/).\
-Current interests include everything Linux (Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>), and hardware-only neural networks for energy-efficient machine learning.
+Current interests include everything Linux (Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>) and hardware-only neural networks for energy-efficient machine learning.
 
 ![Github Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=Github%20Stars%20%26%20Forks&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa) 
 ![Github Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)
