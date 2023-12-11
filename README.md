@@ -1,4 +1,6 @@
-Master's student at [Aarhus University](https://international.au.dk/). Current interests include everything Linux (Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>) and bare-metal neural networks for energy-efficient machine learning.
+Master's student at [Aarhus University](https://international.au.dk/) currently interested in:\
+• Everything Linux (Check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>).\
+• Bare-metal, energy-efficient machine learning.
 
 ![Github](https://img.shields.io/badge/GH%20Stars%20%26%20Forks-555555?style=flat-square)
 ![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa) 
