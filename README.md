@@ -1,5 +1,5 @@
 Master's student at [Aarhus University](https://international.au.dk/) currently interested in:\
-• Bare-metal, energy-efficient machine learning.\
+• Hardware-only, energy-efficient machine learning.\
 • Neuromorphic computing.\
 • Microgrids and sustainable energy.\
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.
