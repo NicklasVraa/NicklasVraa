@@ -1,7 +1,7 @@
 Master's student at [Aarhus University](https://international.au.dk/) currently interested in:\
 • Hardware-only, energy-efficient machine learning.\
 • Neuromorphic computing.\
-• Microgrids and sustainable energy.\
+• Nanogrids and sustainable energy.\
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.
 
 ![Github](https://img.shields.io/badge/GH%20Stars%20%26%20Forks-555555?style=flat-square)
