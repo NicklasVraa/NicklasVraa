@@ -4,8 +4,6 @@ Master's student at [Aarhus University](https://international.au.dk/) currently 
 • Nanogrids and sustainable energy.\
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.
 
-Show appreciation by starring projects or by connecting and endorsing skills on [Linkedin](https://www.linkedin.com/in/nicklas-vraa-679586182/) :)
-
 ![Github](https://img.shields.io/badge/GH%20Stars%20%26%20Forks-555555?style=flat-square)
 ![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa) 
 ![Forks](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NicklasVraa)\
