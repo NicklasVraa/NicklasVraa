@@ -1,4 +1,4 @@
-Master's student at [Aarhus University](https://international.au.dk/) currently interested in:\
+Recent Master's graduate from [Aarhus University](https://international.au.dk/) currently interested in:\
 • FPGA-based machine learning.\
 • Neuromorphic computing.\
 • Nanogrids and sustainable energy.\
