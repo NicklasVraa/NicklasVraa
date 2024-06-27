@@ -1,6 +1,5 @@
 Recent Master's graduate from [Aarhus University](https://international.au.dk/) currently interested in:\
-• FPGA-based machine learning.\
-• Neuromorphic computing.\
+• Embedded and FPGA-accelerated machine learning.\
 • Nanogrids and sustainable energy.\
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.
 
