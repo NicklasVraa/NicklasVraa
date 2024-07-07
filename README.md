@@ -4,7 +4,7 @@ Recent Master's graduate from [Aarhus University](https://international.au.dk/) 
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.
 
 I open-source my hobby projects and academic tools under the GPL license. \
-Feel free to show appreciation by starring projects or endorsing skills on [linkedin](https://www.linkedin.com/in/nicklas-vraa-679586182/).
+Project stars and [linkedin](https://www.linkedin.com/in/nicklas-vraa-679586182/) skill endorsements are greatly appreciated.
 
 ![Github](https://img.shields.io/badge/GH%20Stars%20%26%20Forks-555555?style=flat-square)
 ![Stars](https://img.shields.io/badge/dynamic/json?color=2f81f7&label=&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NicklasVraa) 
