@@ -1,5 +1,5 @@
 ECE Master's graduate from [Aarhus University](https://international.au.dk/) currently interested in:\
-• Embedded and FPGA-accelerated machine learning.\
+• Embedded/FPGA-accelerated machine learning.\
 • Nanogrids, sustainable energy and [tiny-houses](https://github.com/NicklasVraa/OpenTinyHome).\
 • Everything Linux - check out [NovaOS](https://github.com/NicklasVraa/NovaOS/tree/main) <img src="meta/logo.svg" width="12"/>.\
 • Optimization algorithm development.
