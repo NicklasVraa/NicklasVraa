@@ -1,4 +1,4 @@
-Master in electrical engineering. PhD candidate in applied electrodynamics.
+Master in electrical engineering. PhD student in applied electrodynamics.
 
 I open-source my hobby projects and academic tools under the GPL license.
 <!-- Project stars and [linkedin](https://www.linkedin.com/in/nicklas-vraa-679586182/) skill endorsements are greatly appreciated. -->
